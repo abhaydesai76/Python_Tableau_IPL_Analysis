@@ -1,11 +1,12 @@
 # Python_Tableau_IPL_Analysis
-Problem Statement – Tableau dashboard of IPL statistics
+**Problem Statement – Tableau dashboard of IPL statistics**
 
 The Indian Premier League, or IPL, is a T20 cricket league, which was founded in 2008 and is held every year.
 Over the years, IPL has become one of the most-watched and most attended live sporting events all over the world.
 a nationally recognized news agency wants to build a Tableau dashboard of IPL statistics over the years since its inception in order to create an infographic for a newsletter.
 
 **STEPS to be taken**
+
 Establish data source connection with input files (csv files)
 Verifying table fields and join them on relevant fields to get data from multiple tables
 Prepare infographics showing …
